@@ -1,3 +1,4 @@
+**Json --> record  --> Json**
+This is the Delphi source code from a tutorial on how to use the Delphi Json Serilizers with records. In this we ill  Serialize / Deserialize with Json text objects
+
 "# jfJsonRecordJson" 
-"# jfJsonRecordJson" 
-This is the Delphi Source Code from a Tutorial on how to use the Delphi Json Serialize / Deserialize with Json text objects
